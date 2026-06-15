@@ -4,6 +4,10 @@
     <name>MOLECULE Бьюти-Коворкинг</name>
     <company>MOLECULE</company>
 
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+
     <categories>
       <category id="1">Маникюр и педикюр</category>
       <category id="2">Парикмахерские услуги</category>
@@ -13,40 +17,57 @@
 
       <!-- Александра -->
 
-      <offer id="alex_1"><name>Маникюр без покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>1000</price><description>Классический маникюр с обработкой кутикулы и приданием формы ногтям.</description></offer>
-      <offer id="alex_2"><name>Маникюр с покрытием (укрепление)</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2000</price><description>Маникюр с укреплением ногтевой пластины и покрытием.</description></offer>
-      <offer id="alex_3"><name>Педикюр без покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>1500</price><description>Гигиенический педикюр с обработкой ногтей и кутикулы.</description></offer>
-      <offer id="alex_4"><name>Педикюр пальчики</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2200</price><description>Педикюр пальчиков с покрытием.</description></offer>
-      <offer id="alex_5"><name>Педикюр пальчики + обработка стопы</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2500</price><description>Комплексный педикюр с обработкой стоп.</description></offer>
-      <offer id="alex_6"><name>Снятие чужого покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>400</price><description>Безопасное снятие покрытия без дальнейшего покрытия.</description></offer>
-      <offer id="alex_7"><name>Френч / Втирка</name><vendor>Александра</vendor><categoryId>1</categoryId><price>200</price><description>Дополнительное оформление ногтей.</description></offer>
-      <offer id="alex_8"><name>Дизайн ногтей</name><vendor>Александра</vendor><categoryId>1</categoryId><price>150</price><description>Дизайн ногтей любой сложности.</description></offer>
+      <offer id="alex_1"><name>Маникюр без покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>1000</price><currencyId>RUB</currencyId><description>Классический маникюр с обработкой кутикулы и приданием формы ногтям.</description></offer>
+
+      <offer id="alex_2"><name>Маникюр с покрытием (укрепление)</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2000</price><currencyId>RUB</currencyId><description>Маникюр с укреплением ногтевой пластины и покрытием.</description></offer>
+
+      <offer id="alex_3"><name>Педикюр без покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>1500</price><currencyId>RUB</currencyId><description>Гигиенический педикюр с обработкой ногтей и кутикулы.</description></offer>
+
+      <offer id="alex_4"><name>Педикюр пальчики</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2200</price><currencyId>RUB</currencyId><description>Педикюр пальчиков с покрытием.</description></offer>
+
+      <offer id="alex_5"><name>Педикюр пальчики + обработка стопы</name><vendor>Александра</vendor><categoryId>1</categoryId><price>2500</price><currencyId>RUB</currencyId><description>Комплексный педикюр с обработкой стоп.</description></offer>
+
+      <offer id="alex_6"><name>Снятие чужого покрытия</name><vendor>Александра</vendor><categoryId>1</categoryId><price>400</price><currencyId>RUB</currencyId><description>Безопасное снятие покрытия без дальнейшего покрытия.</description></offer>
+
+      <offer id="alex_7"><name>Френч / Втирка</name><vendor>Александра</vendor><categoryId>1</categoryId><price>200</price><currencyId>RUB</currencyId><description>Дополнительное оформление ногтей.</description></offer>
+
+      <offer id="alex_8"><name>Дизайн ногтей</name><vendor>Александра</vendor><categoryId>1</categoryId><price>150</price><currencyId>RUB</currencyId><description>Дизайн ногтей любой сложности.</description></offer>
 
       <!-- Мария -->
 
-      <offer id="maria_1"><name>Омбре / Шатуш / Балаяж / Airtouch (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>12000</price><description>Современные техники растяжки цвета для коротких волос.</description></offer>
-      <offer id="maria_2"><name>Омбре / Шатуш / Балаяж / Airtouch (удлиненные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>14000</price><description>Техники растяжки цвета для удлиненных волос.</description></offer>
-      <offer id="maria_3"><name>Омбре / Шатуш / Балаяж / Airtouch (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>18000</price><description>Премиальное окрашивание длинных волос.</description></offer>
+      <offer id="maria_1"><name>Омбре / Шатуш / Балаяж / Airtouch (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>12000</price><currencyId>RUB</currencyId><description>Современные техники растяжки цвета для коротких волос.</description></offer>
 
-      <offer id="maria_4"><name>Локоны (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2500</price><description>Укладка локонами для средних волос.</description></offer>
-      <offer id="maria_5"><name>Локоны (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3000</price><description>Укладка локонами для длинных волос.</description></offer>
+      <offer id="maria_2"><name>Омбре / Шатуш / Балаяж / Airtouch (удлиненные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>14000</price><currencyId>RUB</currencyId><description>Техники растяжки цвета для удлиненных волос.</description></offer>
 
-      <offer id="maria_6"><name>Кератиновое выпрямление / Ботокс / Нанопластика / Биксипластия (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>7000</price><description>Разглаживание и восстановление волос.</description></offer>
-      <offer id="maria_7"><name>Кератиновое выпрямление / Ботокс / Нанопластика / Биксипластия (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>9000</price><description>Комплексное восстановление длинных волос.</description></offer>
+      <offer id="maria_3"><name>Омбре / Шатуш / Балаяж / Airtouch (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>18000</price><currencyId>RUB</currencyId><description>Премиальное окрашивание длинных волос.</description></offer>
 
-      <offer id="maria_8"><name>Холодное восстановление волос (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>4500</price><description>Глубокое восстановление структуры волос.</description></offer>
-      <offer id="maria_9"><name>Холодное восстановление волос (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>6500</price><description>Интенсивное восстановление длинных волос.</description></offer>
+      <offer id="maria_4"><name>Локоны (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2500</price><currencyId>RUB</currencyId><description>Укладка локонами для средних волос.</description></offer>
 
-      <offer id="maria_10"><name>Женская стрижка (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>1500</price><description>Стрижка с учетом формы лица и структуры волос.</description></offer>
-      <offer id="maria_11"><name>Женская стрижка (удлиненные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2000</price><description>Стрижка для волос средней длины.</description></offer>
-      <offer id="maria_12"><name>Женская стрижка (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2500</price><description>Стрижка длинных волос с сохранением длины.</description></offer>
+      <offer id="maria_5"><name>Локоны (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3000</price><currencyId>RUB</currencyId><description>Укладка локонами для длинных волос.</description></offer>
 
-      <offer id="maria_13"><name>Окрашивание в один тон (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3000</price><description>Равномерное окрашивание в выбранный оттенок.</description></offer>
-      <offer id="maria_14"><name>Окрашивание в один тон (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>4000</price><description>Стойкое окрашивание волос средней длины.</description></offer>
-      <offer id="maria_15"><name>Окрашивание в один тон (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>5000</price><description>Полное окрашивание длинных волос.</description></offer>
+      <offer id="maria_6"><name>Кератиновое выпрямление / Ботокс / Нанопластика / Биксипластия (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>7000</price><currencyId>RUB</currencyId><description>Разглаживание и восстановление волос.</description></offer>
 
-      <offer id="maria_16"><name>Окрашивание корней</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3200</price><description>Обновление цвета у корней волос.</description></offer>
-      <offer id="maria_17"><name>Окрашивание корней + тонирование</name><vendor>Мария</vendor><categoryId>2</categoryId><price>7500</price><description>Коррекция цвета корней с тонированием длины.</description></offer>
+      <offer id="maria_7"><name>Кератиновое выпрямление / Ботокс / Нанопластика / Биксипластия (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>9000</price><currencyId>RUB</currencyId><description>Комплексное восстановление длинных волос.</description></offer>
+
+      <offer id="maria_8"><name>Холодное восстановление волос (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>4500</price><currencyId>RUB</currencyId><description>Глубокое восстановление структуры волос.</description></offer>
+
+      <offer id="maria_9"><name>Холодное восстановление волос (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>6500</price><currencyId>RUB</currencyId><description>Интенсивное восстановление длинных волос.</description></offer>
+
+      <offer id="maria_10"><name>Женская стрижка (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>1500</price><currencyId>RUB</currencyId><description>Стрижка с учетом формы лица и структуры волос.</description></offer>
+
+      <offer id="maria_11"><name>Женская стрижка (удлиненные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2000</price><currencyId>RUB</currencyId><description>Стрижка для волос средней длины.</description></offer>
+
+      <offer id="maria_12"><name>Женская стрижка (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>2500</price><currencyId>RUB</currencyId><description>Стрижка длинных волос с сохранением длины.</description></offer>
+
+      <offer id="maria_13"><name>Окрашивание в один тон (короткие волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3000</price><currencyId>RUB</currencyId><description>Равномерное окрашивание в выбранный оттенок.</description></offer>
+
+      <offer id="maria_14"><name>Окрашивание в один тон (средние волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>4000</price><currencyId>RUB</currencyId><description>Стойкое окрашивание волос средней длины.</description></offer>
+
+      <offer id="maria_15"><name>Окрашивание в один тон (длинные волосы)</name><vendor>Мария</vendor><categoryId>2</categoryId><price>5000</price><currencyId>RUB</currencyId><description>Полное окрашивание длинных волос.</description></offer>
+
+      <offer id="maria_16"><name>Окрашивание корней</name><vendor>Мария</vendor><categoryId>2</categoryId><price>3200</price><currencyId>RUB</currencyId><description>Обновление цвета у корней волос.</description></offer>
+
+      <offer id="maria_17"><name>Окрашивание корней + тонирование</name><vendor>Мария</vendor><categoryId>2</categoryId><price>7500</price><currencyId>RUB</currencyId><description>Коррекция цвета корней с тонированием длины.</description></offer>
 
     </offers>
   </shop>
