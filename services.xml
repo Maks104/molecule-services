@@ -1,5 +1,4 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<yml_catalog date="2026-06-19 12:00">
+yml_catalog date="2026-06-19 12:00">
 <shop>
 <name>MOLECULE Бьюти-Коворкинг</name>
 <company>MOLECULE</company>
@@ -269,7 +268,6 @@ This XML file does not appear to have any style information associated with it. 
 <currencyId>RUR</currencyId>
 <description>Педикюр с дизайнерским покрытием гель-лаком.</description>
 </offer>
-<!--  Студия эстетики лица и тела Натальи Сергеевой  -->
 <offer id="estetika_1">
 <name>Smart Roller — пробный сеанс (40 минут)</name>
 <categoryId>8</categoryId>
@@ -382,7 +380,6 @@ This XML file does not appear to have any style information associated with it. 
 <currencyId>RUR</currencyId>
 <description>Бандажное обёртывание для коррекции фигуры.</description>
 </offer>
-<!--  Лазерная эпиляция  -->
 <offer id="estetika_17">
 <name>Лазерная эпиляция — верхняя губа</name>
 <categoryId>8</categoryId>
@@ -533,37 +530,37 @@ This XML file does not appear to have any style information associated with it. 
 <offer id="natalia_3">
 <name>Окрашивание</name>
 <categoryId>4</categoryId>
-<price>от 2500</price>
+<price>2500</price>
 <currencyId>RUR</currencyId>
-<description>Окрашивание</description>
+<description>Окрашивание Стоимость от 2500 ₽.</description>
 </offer>
 <offer id="natalia_4">
 <name>Мелирование</name>
 <categoryId>4</categoryId>
-<price>от 3000</price>
+<price>3000</price>
 <currencyId>RUR</currencyId>
-<description>Мелирование</description>
+<description>Мелирование Стоимость от 3000 ₽.</description>
 </offer>
 <offer id="natalia_5">
 <name>Сложное окрашивание</name>
 <categoryId>4</categoryId>
-<price>от 4500</price>
+<price>4500</price>
 <currencyId>RUR</currencyId>
-<description>Сложное окрашивание</description>
+<description>Сложное окрашивание Стоимость от 4500 ₽.</description>
 </offer>
 <offer id="natalia_6">
 <name>Завивка волос</name>
 <categoryId>4</categoryId>
-<price>от 3000</price>
+<price>3000</price>
 <currencyId>RUR</currencyId>
-<description>Завивка волос</description>
+<description>Завивка волос Стоимость от 3000 ₽.</description>
 </offer>
 <offer id="natalia_7">
 <name>Кератиновое выпрямление</name>
 <categoryId>4</categoryId>
-<price>от 5000</price>
+<price>5000</price>
 <currencyId>RUR</currencyId>
-<description>Кератиновое выпрямление</description>
+<description>Кератиновое выпрямление Стоимость от 5000 ₽.</description>
 </offer>
 <offer id="natalia_8">
 <name>Глубокое восстановление (ботокс)</name>
@@ -701,51 +698,51 @@ This XML file does not appear to have any style information associated with it. 
 <offer id="rimma_4">
 <name>Окрашивание волос</name>
 <categoryId>7</categoryId>
-<price>от 3000</price>
+<price>3000</price>
 <currencyId>RUR</currencyId>
-<description>Окрашивание волос</description>
+<description>Окрашивание волос Стоимость от 3000 ₽.</description>
 </offer>
 <offer id="rimma_5">
 <name>Пенное тонирование волос</name>
 <categoryId>7</categoryId>
-<price>от 2500</price>
+<price>2500</price>
 <currencyId>RUR</currencyId>
-<description>Пенное тонирование волос</description>
+<description>Пенное тонирование волос Стоимость от 2500 ₽.</description>
 </offer>
 <offer id="rimma_6">
 <name>Контуринг</name>
 <categoryId>7</categoryId>
-<price>от 3000</price>
+<price>3000</price>
 <currencyId>RUR</currencyId>
-<description>Контуринг</description>
+<description>Контуринг Стоимость от 3000 ₽.</description>
 </offer>
 <offer id="rimma_7">
 <name>Сложное окрашивание</name>
 <categoryId>7</categoryId>
-<price>от 6000</price>
+<price>6000</price>
 <currencyId>RUR</currencyId>
-<description>Сложное окрашивание</description>
+<description>Сложное окрашивание Стоимость от 6000 ₽.</description>
 </offer>
 <offer id="rimma_8">
 <name>Химическая завивка</name>
 <categoryId>7</categoryId>
-<price>от 3000</price>
+<price>3000</price>
 <currencyId>RUR</currencyId>
-<description>Химическая завивка</description>
+<description>Химическая завивка Стоимость от 3000 ₽.</description>
 </offer>
 <offer id="rimma_9">
 <name>Биозавивка</name>
 <categoryId>7</categoryId>
-<price>от 5000</price>
+<price>5000</price>
 <currencyId>RUR</currencyId>
-<description>Биозавивка</description>
+<description>Биозавивка Стоимость от 5000 ₽.</description>
 </offer>
 <offer id="rimma_10">
 <name>Кератиновое выпрямление</name>
 <categoryId>7</categoryId>
-<price>от 6000</price>
+<price>6000</price>
 <currencyId>RUR</currencyId>
-<description>Кератиновое выпрямление</description>
+<description>Кератиновое выпрямление Стоимость от 6000 ₽.</description>
 </offer>
 <offer id="rimma_11">
 <name>Салонный уход за волосами</name>
@@ -757,9 +754,9 @@ This XML file does not appear to have any style information associated with it. 
 <offer id="rimma_12">
 <name>Глубокое восстановление</name>
 <categoryId>7</categoryId>
-<price>от 2000</price>
+<price>2000</price>
 <currencyId>RUR</currencyId>
-<description>Глубокое восстановление</description>
+<description>Глубокое восстановление Стоимость от 2000 ₽.</description>
 </offer>
 </offers>
 </shop>
