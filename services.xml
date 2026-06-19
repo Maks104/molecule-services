@@ -1,4 +1,5 @@
-<yml_catalog date="2026-06-16 12:00">
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2026-06-19 12:00">
 <shop>
 <name>MOLECULE Бьюти-Коворкинг</name>
 <company>MOLECULE</company>
@@ -9,6 +10,11 @@
 <category id="1">Александра — ногтевой сервис</category>
 <category id="2">Мария — парикмахерские услуги</category>
 <category id="3">Ксения — ногтевой сервис</category>
+<category id="4">Наталья — парикмахер-стилист</category>
+<category id="5">Дарья — ногтевой сервис</category>
+<category id="6">Дашуля — ногтевой сервис</category>
+<category id="7">Римма — парикмахерские услуги</category>
+<category id="8">Студия эстетики лица и тела Натальи Сергеевой</category>
 </categories>
 <offers>
 <offer id="alex_1">
@@ -262,6 +268,498 @@
 <price>2500</price>
 <currencyId>RUR</currencyId>
 <description>Педикюр с дизайнерским покрытием гель-лаком.</description>
+</offer>
+<!--  Студия эстетики лица и тела Натальи Сергеевой  -->
+<offer id="estetika_1">
+<name>Smart Roller — пробный сеанс (40 минут)</name>
+<categoryId>8</categoryId>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<description>Пробный сеанс аппаратного массажа Smart Roller.</description>
+</offer>
+<offer id="estetika_2">
+<name>Smart Roller — разовый сеанс (45 минут)</name>
+<categoryId>8</categoryId>
+<price>2400</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный массаж Smart Roller.</description>
+</offer>
+<offer id="estetika_3">
+<name>Smart Roller — абонемент 5 процедур</name>
+<categoryId>8</categoryId>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<description>Абонемент на пять процедур Smart Roller.</description>
+</offer>
+<offer id="estetika_4">
+<name>Smart Roller — абонемент 10 процедур</name>
+<categoryId>8</categoryId>
+<price>20000</price>
+<currencyId>RUR</currencyId>
+<description>Абонемент на десять процедур Smart Roller.</description>
+</offer>
+<offer id="estetika_5">
+<name>LPG-массаж тела</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный LPG-массаж тела.</description>
+</offer>
+<offer id="estetika_6">
+<name>Вакуумно-роликовый массаж</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный вакуумно-роликовый массаж.</description>
+</offer>
+<offer id="estetika_7">
+<name>Вибромассаж</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный вибромассаж.</description>
+</offer>
+<offer id="estetika_8">
+<name>Кавитация</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Ультразвуковая кавитация.</description>
+</offer>
+<offer id="estetika_9">
+<name>RF-лифтинг тела</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный RF-лифтинг тела.</description>
+</offer>
+<offer id="estetika_10">
+<name>Миостимуляция</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратная миостимуляция.</description>
+</offer>
+<offer id="estetika_11">
+<name>Прессотерапия</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Лимфодренажная прессотерапия.</description>
+</offer>
+<offer id="estetika_12">
+<name>Комплекс: кавитация + RF-лифтинг + миостимуляция + прессотерапия</name>
+<categoryId>8</categoryId>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<description>Комплекс аппаратной коррекции фигуры.</description>
+</offer>
+<offer id="estetika_13">
+<name>LPG-массаж лица</name>
+<categoryId>8</categoryId>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный массаж лица.</description>
+</offer>
+<offer id="estetika_14">
+<name>RF-лифтинг лица</name>
+<categoryId>8</categoryId>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный RF-лифтинг лица.</description>
+</offer>
+<offer id="estetika_15">
+<name>Микротоковая терапия лица</name>
+<categoryId>8</categoryId>
+<price>1200</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратная микротоковая терапия.</description>
+</offer>
+<offer id="estetika_16">
+<name>Бандажное обёртывание</name>
+<categoryId>8</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Бандажное обёртывание для коррекции фигуры.</description>
+</offer>
+<!--  Лазерная эпиляция  -->
+<offer id="estetika_17">
+<name>Лазерная эпиляция — верхняя губа</name>
+<categoryId>8</categoryId>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<description>Удаление нежелательных волос в зоне верхней губы.</description>
+</offer>
+<offer id="estetika_18">
+<name>Лазерная эпиляция — подбородок</name>
+<categoryId>8</categoryId>
+<price>600</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция подбородка.</description>
+</offer>
+<offer id="estetika_19">
+<name>Лазерная эпиляция — лицо полностью</name>
+<categoryId>8</categoryId>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<description>Комплексная лазерная эпиляция лица.</description>
+</offer>
+<offer id="estetika_20">
+<name>Лазерная эпиляция — шея</name>
+<categoryId>8</categoryId>
+<price>700</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция шеи.</description>
+</offer>
+<offer id="estetika_21">
+<name>Лазерная эпиляция — подмышечные впадины</name>
+<categoryId>8</categoryId>
+<price>900</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция подмышек.</description>
+</offer>
+<offer id="estetika_22">
+<name>Лазерная эпиляция — руки до локтя</name>
+<categoryId>8</categoryId>
+<price>1300</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция рук до локтя.</description>
+</offer>
+<offer id="estetika_23">
+<name>Лазерная эпиляция — руки полностью</name>
+<categoryId>8</categoryId>
+<price>1800</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция рук полностью.</description>
+</offer>
+<offer id="estetika_24">
+<name>Лазерная эпиляция — кисти рук</name>
+<categoryId>8</categoryId>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция кистей рук.</description>
+</offer>
+<offer id="estetika_25">
+<name>Лазерная эпиляция — линия живота</name>
+<categoryId>8</categoryId>
+<price>600</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция линии живота.</description>
+</offer>
+<offer id="estetika_26">
+<name>Лазерная эпиляция — живот полностью</name>
+<categoryId>8</categoryId>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция живота полностью.</description>
+</offer>
+<offer id="estetika_27">
+<name>Лазерная эпиляция — поясница</name>
+<categoryId>8</categoryId>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция поясницы.</description>
+</offer>
+<offer id="estetika_28">
+<name>Лазерная эпиляция — спина полностью</name>
+<categoryId>8</categoryId>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция спины.</description>
+</offer>
+<offer id="estetika_29">
+<name>Лазерная эпиляция — классическое бикини</name>
+<categoryId>8</categoryId>
+<price>1100</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция зоны классического бикини.</description>
+</offer>
+<offer id="estetika_30">
+<name>Лазерная эпиляция — глубокое бикини</name>
+<categoryId>8</categoryId>
+<price>1600</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция зоны глубокого бикини.</description>
+</offer>
+<offer id="estetika_31">
+<name>Лазерная эпиляция — ягодицы</name>
+<categoryId>8</categoryId>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция ягодиц.</description>
+</offer>
+<offer id="estetika_32">
+<name>Лазерная эпиляция — бедра</name>
+<categoryId>8</categoryId>
+<price>1700</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция бедер.</description>
+</offer>
+<offer id="estetika_33">
+<name>Лазерная эпиляция — голени</name>
+<categoryId>8</categoryId>
+<price>1600</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция голеней.</description>
+</offer>
+<offer id="estetika_34">
+<name>Лазерная эпиляция — ноги полностью</name>
+<categoryId>8</categoryId>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция ног полностью.</description>
+</offer>
+<offer id="estetika_35">
+<name>Лазерная эпиляция — пальцы ног</name>
+<categoryId>8</categoryId>
+<price>400</price>
+<currencyId>RUR</currencyId>
+<description>Лазерная эпиляция пальцев ног.</description>
+</offer>
+<offer id="natalia_1">
+<name>Женская стрижка</name>
+<categoryId>4</categoryId>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<description>Женская стрижка</description>
+</offer>
+<offer id="natalia_2">
+<name>Мужская стрижка</name>
+<categoryId>4</categoryId>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<description>Мужская стрижка</description>
+</offer>
+<offer id="natalia_3">
+<name>Окрашивание</name>
+<categoryId>4</categoryId>
+<price>от 2500</price>
+<currencyId>RUR</currencyId>
+<description>Окрашивание</description>
+</offer>
+<offer id="natalia_4">
+<name>Мелирование</name>
+<categoryId>4</categoryId>
+<price>от 3000</price>
+<currencyId>RUR</currencyId>
+<description>Мелирование</description>
+</offer>
+<offer id="natalia_5">
+<name>Сложное окрашивание</name>
+<categoryId>4</categoryId>
+<price>от 4500</price>
+<currencyId>RUR</currencyId>
+<description>Сложное окрашивание</description>
+</offer>
+<offer id="natalia_6">
+<name>Завивка волос</name>
+<categoryId>4</categoryId>
+<price>от 3000</price>
+<currencyId>RUR</currencyId>
+<description>Завивка волос</description>
+</offer>
+<offer id="natalia_7">
+<name>Кератиновое выпрямление</name>
+<categoryId>4</categoryId>
+<price>от 5000</price>
+<currencyId>RUR</currencyId>
+<description>Кератиновое выпрямление</description>
+</offer>
+<offer id="natalia_8">
+<name>Глубокое восстановление (ботокс)</name>
+<categoryId>4</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Глубокое восстановление (ботокс)</description>
+</offer>
+<offer id="daria_1">
+<name>Маникюр без покрытия</name>
+<categoryId>5</categoryId>
+<price>1400</price>
+<currencyId>RUR</currencyId>
+<description>Маникюр без покрытия</description>
+</offer>
+<offer id="daria_2">
+<name>Маникюр с покрытием</name>
+<categoryId>5</categoryId>
+<price>2300</price>
+<currencyId>RUR</currencyId>
+<description>Маникюр с покрытием</description>
+</offer>
+<offer id="daria_3">
+<name>Наращивание ногтей</name>
+<categoryId>5</categoryId>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<description>Наращивание ногтей</description>
+</offer>
+<offer id="daria_4">
+<name>Педикюр без покрытия (пальчики)</name>
+<categoryId>5</categoryId>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<description>Педикюр без покрытия (пальчики)</description>
+</offer>
+<offer id="daria_5">
+<name>Педикюр без покрытия полный</name>
+<categoryId>5</categoryId>
+<price>1700</price>
+<currencyId>RUR</currencyId>
+<description>Педикюр без покрытия полный</description>
+</offer>
+<offer id="daria_6">
+<name>Педикюр с покрытием</name>
+<categoryId>5</categoryId>
+<price>2300</price>
+<currencyId>RUR</currencyId>
+<description>Педикюр с покрытием</description>
+</offer>
+<offer id="daria_7">
+<name>Педикюр полный с покрытием</name>
+<categoryId>5</categoryId>
+<price>2600</price>
+<currencyId>RUR</currencyId>
+<description>Педикюр полный с покрытием</description>
+</offer>
+<offer id="daria_8">
+<name>Френч</name>
+<categoryId>5</categoryId>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<description>Френч</description>
+</offer>
+<offer id="dashulya_1">
+<name>Гель-лак (с укреплением)</name>
+<categoryId>6</categoryId>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<description>Гель-лак (с укреплением)</description>
+</offer>
+<offer id="dashulya_2">
+<name>Гель-лак на короткие ногти</name>
+<categoryId>6</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Гель-лак на короткие ногти</description>
+</offer>
+<offer id="dashulya_3">
+<name>Маникюр с покрытием гель-лак + френч</name>
+<categoryId>6</categoryId>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<description>Маникюр с покрытием гель-лак + френч</description>
+</offer>
+<offer id="dashulya_4">
+<name>Аппаратный педикюр с покрытием</name>
+<categoryId>6</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Аппаратный педикюр с покрытием</description>
+</offer>
+<offer id="dashulya_5">
+<name>Полный педикюр с покрытием</name>
+<categoryId>6</categoryId>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<description>Полный педикюр с покрытием</description>
+</offer>
+<offer id="dashulya_6">
+<name>Снятие чужого материала</name>
+<categoryId>6</categoryId>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<description>Снятие чужого материала</description>
+</offer>
+<offer id="dashulya_7">
+<name>SPA-уход</name>
+<categoryId>6</categoryId>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<description>SPA-уход</description>
+</offer>
+<offer id="rimma_1">
+<name>Женская стрижка (короткая)</name>
+<categoryId>7</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Женская стрижка (короткая)</description>
+</offer>
+<offer id="rimma_2">
+<name>Женская стрижка (длинные)</name>
+<categoryId>7</categoryId>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<description>Женская стрижка (длинные)</description>
+</offer>
+<offer id="rimma_3">
+<name>Мужская стрижка</name>
+<categoryId>7</categoryId>
+<price>1800</price>
+<currencyId>RUR</currencyId>
+<description>Мужская стрижка</description>
+</offer>
+<offer id="rimma_4">
+<name>Окрашивание волос</name>
+<categoryId>7</categoryId>
+<price>от 3000</price>
+<currencyId>RUR</currencyId>
+<description>Окрашивание волос</description>
+</offer>
+<offer id="rimma_5">
+<name>Пенное тонирование волос</name>
+<categoryId>7</categoryId>
+<price>от 2500</price>
+<currencyId>RUR</currencyId>
+<description>Пенное тонирование волос</description>
+</offer>
+<offer id="rimma_6">
+<name>Контуринг</name>
+<categoryId>7</categoryId>
+<price>от 3000</price>
+<currencyId>RUR</currencyId>
+<description>Контуринг</description>
+</offer>
+<offer id="rimma_7">
+<name>Сложное окрашивание</name>
+<categoryId>7</categoryId>
+<price>от 6000</price>
+<currencyId>RUR</currencyId>
+<description>Сложное окрашивание</description>
+</offer>
+<offer id="rimma_8">
+<name>Химическая завивка</name>
+<categoryId>7</categoryId>
+<price>от 3000</price>
+<currencyId>RUR</currencyId>
+<description>Химическая завивка</description>
+</offer>
+<offer id="rimma_9">
+<name>Биозавивка</name>
+<categoryId>7</categoryId>
+<price>от 5000</price>
+<currencyId>RUR</currencyId>
+<description>Биозавивка</description>
+</offer>
+<offer id="rimma_10">
+<name>Кератиновое выпрямление</name>
+<categoryId>7</categoryId>
+<price>от 6000</price>
+<currencyId>RUR</currencyId>
+<description>Кератиновое выпрямление</description>
+</offer>
+<offer id="rimma_11">
+<name>Салонный уход за волосами</name>
+<categoryId>7</categoryId>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<description>Салонный уход за волосами</description>
+</offer>
+<offer id="rimma_12">
+<name>Глубокое восстановление</name>
+<categoryId>7</categoryId>
+<price>от 2000</price>
+<currencyId>RUR</currencyId>
+<description>Глубокое восстановление</description>
 </offer>
 </offers>
 </shop>
