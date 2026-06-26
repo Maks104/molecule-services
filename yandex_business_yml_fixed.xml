@@ -269,253 +269,6 @@
 <currencyId>RUR</currencyId>
 <description>Педикюр с дизайнерским покрытием гель-лаком.</description>
 </offer>
-<!--  Студия эстетики лица и тела Натальи Сергеевой  -->
-<offer id="estetika_1">
-<name>Smart Roller — пробный сеанс (40 минут)</name>
-<categoryId>8</categoryId>
-<price>1500</price>
-<currencyId>RUR</currencyId>
-<description>Пробный сеанс аппаратного массажа Smart Roller.</description>
-</offer>
-<offer id="estetika_2">
-<name>Smart Roller — разовый сеанс (45 минут)</name>
-<categoryId>8</categoryId>
-<price>2400</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный массаж Smart Roller.</description>
-</offer>
-<offer id="estetika_3">
-<name>Smart Roller — абонемент 5 процедур</name>
-<categoryId>8</categoryId>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<description>Абонемент на пять процедур Smart Roller.</description>
-</offer>
-<offer id="estetika_4">
-<name>Smart Roller — абонемент 10 процедур</name>
-<categoryId>8</categoryId>
-<price>20000</price>
-<currencyId>RUR</currencyId>
-<description>Абонемент на десять процедур Smart Roller.</description>
-</offer>
-<offer id="estetika_5">
-<name>LPG-массаж тела</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный LPG-массаж тела.</description>
-</offer>
-<offer id="estetika_6">
-<name>Вакуумно-роликовый массаж</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный вакуумно-роликовый массаж.</description>
-</offer>
-<offer id="estetika_7">
-<name>Вибромассаж</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный вибромассаж.</description>
-</offer>
-<offer id="estetika_8">
-<name>Кавитация</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Ультразвуковая кавитация.</description>
-</offer>
-<offer id="estetika_9">
-<name>RF-лифтинг тела</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный RF-лифтинг тела.</description>
-</offer>
-<offer id="estetika_10">
-<name>Миостимуляция</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратная миостимуляция.</description>
-</offer>
-<offer id="estetika_11">
-<name>Прессотерапия</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Лимфодренажная прессотерапия.</description>
-</offer>
-<offer id="estetika_12">
-<name>Комплекс: кавитация + RF-лифтинг + миостимуляция + прессотерапия</name>
-<categoryId>8</categoryId>
-<price>2500</price>
-<currencyId>RUR</currencyId>
-<description>Комплекс аппаратной коррекции фигуры.</description>
-</offer>
-<offer id="estetika_13">
-<name>LPG-массаж лица</name>
-<categoryId>8</categoryId>
-<price>1000</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный массаж лица.</description>
-</offer>
-<offer id="estetika_14">
-<name>RF-лифтинг лица</name>
-<categoryId>8</categoryId>
-<price>1000</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратный RF-лифтинг лица.</description>
-</offer>
-<offer id="estetika_15">
-<name>Микротоковая терапия лица</name>
-<categoryId>8</categoryId>
-<price>1200</price>
-<currencyId>RUR</currencyId>
-<description>Аппаратная микротоковая терапия.</description>
-</offer>
-<offer id="estetika_16">
-<name>Бандажное обёртывание</name>
-<categoryId>8</categoryId>
-<price>2000</price>
-<currencyId>RUR</currencyId>
-<description>Бандажное обёртывание для коррекции фигуры.</description>
-</offer>
-<!--  Лазерная эпиляция  -->
-<offer id="estetika_17">
-<name>Лазерная эпиляция — верхняя губа</name>
-<categoryId>8</categoryId>
-<price>500</price>
-<currencyId>RUR</currencyId>
-<description>Удаление нежелательных волос в зоне верхней губы.</description>
-</offer>
-<offer id="estetika_18">
-<name>Лазерная эпиляция — подбородок</name>
-<categoryId>8</categoryId>
-<price>600</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция подбородка.</description>
-</offer>
-<offer id="estetika_19">
-<name>Лазерная эпиляция — лицо полностью</name>
-<categoryId>8</categoryId>
-<price>1500</price>
-<currencyId>RUR</currencyId>
-<description>Комплексная лазерная эпиляция лица.</description>
-</offer>
-<offer id="estetika_20">
-<name>Лазерная эпиляция — шея</name>
-<categoryId>8</categoryId>
-<price>700</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция шеи.</description>
-</offer>
-<offer id="estetika_21">
-<name>Лазерная эпиляция — подмышечные впадины</name>
-<categoryId>8</categoryId>
-<price>900</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция подмышек.</description>
-</offer>
-<offer id="estetika_22">
-<name>Лазерная эпиляция — руки до локтя</name>
-<categoryId>8</categoryId>
-<price>1300</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция рук до локтя.</description>
-</offer>
-<offer id="estetika_23">
-<name>Лазерная эпиляция — руки полностью</name>
-<categoryId>8</categoryId>
-<price>1800</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция рук полностью.</description>
-</offer>
-<offer id="estetika_24">
-<name>Лазерная эпиляция — кисти рук</name>
-<categoryId>8</categoryId>
-<price>500</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция кистей рук.</description>
-</offer>
-<offer id="estetika_25">
-<name>Лазерная эпиляция — линия живота</name>
-<categoryId>8</categoryId>
-<price>600</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция линии живота.</description>
-</offer>
-<offer id="estetika_26">
-<name>Лазерная эпиляция — живот полностью</name>
-<categoryId>8</categoryId>
-<price>1500</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция живота полностью.</description>
-</offer>
-<offer id="estetika_27">
-<name>Лазерная эпиляция — поясница</name>
-<categoryId>8</categoryId>
-<price>1000</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция поясницы.</description>
-</offer>
-<offer id="estetika_28">
-<name>Лазерная эпиляция — спина полностью</name>
-<categoryId>8</categoryId>
-<price>2500</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция спины.</description>
-</offer>
-<offer id="estetika_29">
-<name>Лазерная эпиляция — классическое бикини</name>
-<categoryId>8</categoryId>
-<price>1100</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция зоны классического бикини.</description>
-</offer>
-<offer id="estetika_30">
-<name>Лазерная эпиляция — глубокое бикини</name>
-<categoryId>8</categoryId>
-<price>1600</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция зоны глубокого бикини.</description>
-</offer>
-<offer id="estetika_31">
-<name>Лазерная эпиляция — ягодицы</name>
-<categoryId>8</categoryId>
-<price>1000</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция ягодиц.</description>
-</offer>
-<offer id="estetika_32">
-<name>Лазерная эпиляция — бедра</name>
-<categoryId>8</categoryId>
-<price>1700</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция бедер.</description>
-</offer>
-<offer id="estetika_33">
-<name>Лазерная эпиляция — голени</name>
-<categoryId>8</categoryId>
-<price>1600</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция голеней.</description>
-</offer>
-<offer id="estetika_34">
-<name>Лазерная эпиляция — ноги полностью</name>
-<categoryId>8</categoryId>
-<price>2700</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция ног полностью.</description>
-</offer>
-<offer id="estetika_35">
-<name>Лазерная эпиляция — пальцы ног</name>
-<categoryId>8</categoryId>
-<price>400</price>
-<currencyId>RUR</currencyId>
-<description>Лазерная эпиляция пальцев ног.</description>
-</offer>
 <offer id="natalia_1">
 <name>Женская стрижка</name>
 <categoryId>4</categoryId>
@@ -760,6 +513,517 @@
 <price>2000</price>
 <currencyId>RUR</currencyId>
 <description>Глубокое восстановление. Стоимость от 2000 ₽.</description>
+</offer>
+<!-- Студия эстетики лица и тела Натальи Сергеевой -->
+
+<offer id="sergeeva_1">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — пробный 30 минут</name>
+    <categoryId>8</categoryId>
+    <price>700</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс LPG-массажа, вакуумного массажа или вибромассажа (30 минут).</description>
+</offer>
+
+<offer id="sergeeva_2">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — пробный 40 минут</name>
+    <categoryId>8</categoryId>
+    <price>800</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс LPG-массажа, вакуумного массажа или вибромассажа (40 минут).</description>
+</offer>
+
+<offer id="sergeeva_3">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — разовый 30 минут</name>
+    <categoryId>8</categoryId>
+    <price>1300</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс LPG-массажа, вакуумного массажа или вибромассажа (30 минут).</description>
+</offer>
+
+<offer id="sergeeva_4">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — разовый 40 минут</name>
+    <categoryId>8</categoryId>
+    <price>1500</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс LPG-массажа, вакуумного массажа или вибромассажа (40 минут).</description>
+</offer>
+
+<offer id="sergeeva_5">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — абонемент 5 сеансов (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>5000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов LPG-массажа, вакуумного массажа или вибромассажа (30 минут).</description>
+</offer>
+
+<offer id="sergeeva_6">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — абонемент 5 сеансов (40 минут)</name>
+    <categoryId>8</categoryId>
+    <price>6000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов LPG-массажа, вакуумного массажа или вибромассажа (40 минут).</description>
+</offer>
+
+<offer id="sergeeva_7">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — абонемент 10 сеансов (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>9500</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов LPG-массажа, вакуумного массажа или вибромассажа (30 минут).</description>
+</offer>
+
+<offer id="sergeeva_8">
+    <name>LPG-массаж / вакуумный массаж / вибромассаж — абонемент 10 сеансов (40 минут)</name>
+    <categoryId>8</categoryId>
+    <price>11000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов LPG-массажа, вакуумного массажа или вибромассажа (40 минут).</description>
+</offer>
+
+<offer id="sergeeva_9">
+    <name>Кавитация / RF-лифтинг / Миостимуляция / Паук — пробный сеанс</name>
+    <categoryId>8</categoryId>
+    <price>700</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс аппаратной коррекции фигуры.</description>
+</offer>
+
+<offer id="sergeeva_10">
+    <name>Кавитация / RF-лифтинг / Миостимуляция / Паук — разовый сеанс</name>
+    <categoryId>8</categoryId>
+    <price>1300</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс аппаратной коррекции фигуры.</description>
+</offer>
+
+<offer id="sergeeva_11">
+    <name>Кавитация / RF-лифтинг / Миостимуляция / Паук — абонемент 5 сеансов</name>
+    <categoryId>8</categoryId>
+    <price>5000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов аппаратной коррекции фигуры.</description>
+</offer>
+
+<offer id="sergeeva_12">
+    <name>Кавитация / RF-лифтинг / Миостимуляция / Паук — абонемент 10 сеансов</name>
+    <categoryId>8</categoryId>
+    <price>9500</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов аппаратной коррекции фигуры.</description>
+</offer>
+
+<offer id="sergeeva_13">
+    <name>LPG-массаж лица — пробный сеанс</name>
+    <categoryId>8</categoryId>
+    <price>600</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс LPG-массажа лица.</description>
+</offer>
+<offer id="sergeeva_14">
+    <name>LPG-массаж лица — разовый сеанс</name>
+    <categoryId>8</categoryId>
+    <price>1000</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс LPG-массажа лица.</description>
+</offer>
+
+<offer id="sergeeva_15">
+    <name>LPG-массаж лица — абонемент 5 сеансов</name>
+    <categoryId>8</categoryId>
+    <price>4500</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов LPG-массажа лица.</description>
+</offer>
+
+<offer id="sergeeva_16">
+    <name>LPG-массаж лица — абонемент 10 сеансов</name>
+    <categoryId>8</categoryId>
+    <price>8000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов LPG-массажа лица.</description>
+</offer>
+<!-- Комплексы -->
+
+<offer id="sergeeva_17">
+    <name>Комплекс — 5 сеансов LPG / вибро / вакуум 30 минут + 5 сеансов LPG лица</name>
+    <categoryId>8</categoryId>
+    <price>8500</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс: 5 сеансов LPG, вибромассажа или вакуумного массажа (30 минут) и 5 сеансов LPG-массажа лица.</description>
+</offer>
+
+<offer id="sergeeva_18">
+    <name>Комплекс — 5 сеансов LPG / вибро / вакуум 40 минут + 5 сеансов LPG лица</name>
+    <categoryId>8</categoryId>
+    <price>9500</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс: 5 сеансов LPG, вибромассажа или вакуумного массажа (40 минут) и 5 сеансов LPG-массажа лица.</description>
+</offer>
+
+<offer id="sergeeva_19">
+    <name>Комплекс — 5 сеансов LPG / вибро / вакуум 30 минут + 5 сеансов миостимуляции</name>
+    <categoryId>8</categoryId>
+    <price>8500</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс: 5 сеансов LPG, вибромассажа или вакуумного массажа (30 минут) и 5 сеансов миостимуляции.</description>
+</offer>
+
+<offer id="sergeeva_20">
+    <name>Комплекс — 10 сеансов LPG / вибро / вакуум 30 минут + 5 сеансов кавитации / RF-лифтинга / «Паук»</name>
+    <categoryId>8</categoryId>
+    <price>14000</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс: 10 сеансов LPG, вибромассажа или вакуумного массажа (30 минут) и 5 сеансов кавитации, RF-лифтинга или процедуры «Паук».</description>
+</offer>
+
+<offer id="sergeeva_21">
+    <name>Комплекс — 10 сеансов LPG / вибро / вакуум 40 минут + 5 сеансов кавитации / RF-лифтинга / «Паук»</name>
+    <categoryId>8</categoryId>
+    <price>15500</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс: 10 сеансов LPG, вибромассажа или вакуумного массажа (40 минут) и 5 сеансов кавитации, RF-лифтинга или процедуры «Паук».</description>
+</offer>
+
+<offer id="sergeeva_22">
+    <name>Абонемент — 15 сеансов LPG / вибро / вакуум (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>14000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 15 сеансов LPG, вибромассажа или вакуумного массажа по 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_23">
+    <name>Абонемент — 15 сеансов LPG / вибро / вакуум (40 минут)</name>
+    <categoryId>8</categoryId>
+    <price>16000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 15 сеансов LPG, вибромассажа или вакуумного массажа по 40 минут.</description>
+</offer>
+
+<offer id="sergeeva_24">
+    <name>Абонемент — 20 сеансов LPG / вибро / вакуум (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>18000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 20 сеансов LPG, вибромассажа или вакуумного массажа по 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_25">
+    <name>Абонемент — 20 сеансов LPG / вибро / вакуум (40 минут)</name>
+    <categoryId>8</categoryId>
+    <price>21000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 20 сеансов LPG, вибромассажа или вакуумного массажа по 40 минут.</description>
+</offer>
+<!-- Смарт-роллер -->
+
+<offer id="sergeeva_26">
+    <name>Смарт-роллер — пробный сеанс (40 минут)</name>
+    <categoryId>8</categoryId>
+    <price>1500</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс смарт-роллера продолжительностью 40 минут.</description>
+</offer>
+
+<offer id="sergeeva_27">
+    <name>Смарт-роллер — разовый сеанс (45 минут)</name>
+    <categoryId>8</categoryId>
+    <price>2400</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс смарт-роллера продолжительностью 45 минут.</description>
+</offer>
+
+<offer id="sergeeva_28">
+    <name>Смарт-роллер — пробный сеанс (60 минут)</name>
+    <categoryId>8</categoryId>
+    <price>2000</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс смарт-роллера продолжительностью 60 минут.</description>
+</offer>
+
+<offer id="sergeeva_29">
+    <name>Смарт-роллер — разовый сеанс (60 минут)</name>
+    <categoryId>8</categoryId>
+    <price>3000</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс смарт-роллера продолжительностью 60 минут.</description>
+</offer>
+
+<offer id="sergeeva_30">
+    <name>Комплекс: Смарт-роллер 30 минут + LPG 30 минут</name>
+    <categoryId>8</categoryId>
+    <price>3000</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплексная процедура: смарт-роллер 30 минут и LPG-массаж 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_31">
+    <name>Комплекс: Смарт-роллер 30 минут + Миостимуляция / «Паук» 30 минут</name>
+    <categoryId>8</categoryId>
+    <price>2800</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплексная процедура: смарт-роллер 30 минут и миостимуляция или процедура «Паук» 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_32">
+    <name>Смарт-роллер — абонемент 5 сеансов (45 минут)</name>
+    <categoryId>8</categoryId>
+    <price>10000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов смарт-роллера по 45 минут.</description>
+</offer>
+
+<offer id="sergeeva_33">
+    <name>Смарт-роллер — абонемент 10 сеансов (45 минут)</name>
+    <categoryId>8</categoryId>
+    <price>19000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов смарт-роллера по 45 минут.</description>
+</offer>
+
+<offer id="sergeeva_34">
+    <name>Смарт-роллер — абонемент 5 сеансов (60 минут)</name>
+    <categoryId>8</categoryId>
+    <price>13000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов смарт-роллера по 60 минут.</description>
+</offer>
+
+<offer id="sergeeva_35">
+    <name>Смарт-роллер — абонемент 10 сеансов (60 минут)</name>
+    <categoryId>8</categoryId>
+    <price>23000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов смарт-роллера по 60 минут.</description>
+</offer>
+
+<!-- Смарт-роллер лица -->
+
+<offer id="sergeeva_36">
+    <name>Смарт-роллер лица — пробный сеанс (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>1000</price>
+    <currencyId>RUR</currencyId>
+    <description>Пробный сеанс смарт-роллера для лица продолжительностью 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_37">
+    <name>Смарт-роллер лица — разовый сеанс (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>1400</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовый сеанс смарт-роллера для лица продолжительностью 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_38">
+    <name>Смарт-роллер лица — абонемент 5 сеансов (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>6000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 5 сеансов смарт-роллера для лица по 30 минут.</description>
+</offer>
+
+<offer id="sergeeva_39">
+    <name>Смарт-роллер лица — абонемент 10 сеансов (30 минут)</name>
+    <categoryId>8</categoryId>
+    <price>11000</price>
+    <currencyId>RUR</currencyId>
+    <description>Абонемент на 10 сеансов смарт-роллера для лица по 30 минут.</description>
+</offer>
+<!-- Лазерная эпиляция -->
+
+<offer id="sergeeva_40">
+    <name>Лазерная эпиляция — Подмышечные впадины</name>
+    <categoryId>8</categoryId>
+    <price>900</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция подмышечных впадин.</description>
+</offer>
+
+<offer id="sergeeva_41">
+    <name>Лазерная эпиляция — Спина (выше или ниже лопаток)</name>
+    <categoryId>8</categoryId>
+    <price>1500</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция спины (выше или ниже лопаток).</description>
+</offer>
+
+<offer id="sergeeva_42">
+    <name>Лазерная эпиляция — Спина полностью</name>
+    <categoryId>8</categoryId>
+    <price>2500</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция всей поверхности спины.</description>
+</offer>
+
+<offer id="sergeeva_43">
+    <name>Лазерная эпиляция — Линия живота</name>
+    <categoryId>8</categoryId>
+    <price>500</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция линии живота.</description>
+</offer>
+
+<offer id="sergeeva_44">
+    <name>Лазерная эпиляция — Ареолы</name>
+    <categoryId>8</categoryId>
+    <price>700</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция области ареол.</description>
+</offer>
+
+<offer id="sergeeva_45">
+    <name>Лазерная эпиляция — Ягодицы</name>
+    <categoryId>8</categoryId>
+    <price>1100</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция ягодиц.</description>
+</offer>
+
+<offer id="sergeeva_46">
+    <name>Лазерная эпиляция — Межъягодичная зона</name>
+    <categoryId>8</categoryId>
+    <price>800</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция межъягодичной зоны.</description>
+</offer>
+
+<!-- Руки -->
+
+<offer id="sergeeva_47">
+    <name>Лазерная эпиляция — Руки до локтя (включая пальцы и кисти)</name>
+    <categoryId>8</categoryId>
+    <price>1100</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция рук до локтя, включая пальцы и кисти.</description>
+</offer>
+
+<offer id="sergeeva_48">
+    <name>Лазерная эпиляция — Руки полностью</name>
+    <categoryId>8</categoryId>
+    <price>1700</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция рук полностью.</description>
+</offer>
+
+<!-- Ноги -->
+
+<offer id="sergeeva_49">
+    <name>Лазерная эпиляция — Голени (включая колени)</name>
+    <categoryId>8</categoryId>
+    <price>1600</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция голеней, включая колени.</description>
+</offer>
+
+<offer id="sergeeva_50">
+    <name>Лазерная эпиляция — Бедра</name>
+    <categoryId>8</categoryId>
+    <price>1800</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция бедер.</description>
+</offer>
+
+<offer id="sergeeva_51">
+    <name>Лазерная эпиляция — Ноги полностью</name>
+    <categoryId>8</categoryId>
+    <price>2700</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция ног полностью.</description>
+</offer>
+
+<!-- Бикини -->
+
+<offer id="sergeeva_52">
+    <name>Лазерная эпиляция — Бикини классика</name>
+    <categoryId>8</categoryId>
+    <price>1100</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция зоны бикини (классика).</description>
+</offer>
+
+<offer id="sergeeva_53">
+    <name>Лазерная эпиляция — Бикини глубокое</name>
+    <categoryId>8</categoryId>
+    <price>1600</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция зоны глубокого бикини.</description>
+</offer>
+
+<offer id="sergeeva_54">
+    <name>Лазерная эпиляция — Бикини тотальное</name>
+    <categoryId>8</categoryId>
+    <price>1800</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция тотального бикини.</description>
+</offer>
+
+<!-- Лицо -->
+
+<offer id="sergeeva_55">
+    <name>Лазерная эпиляция — Верхняя губа</name>
+    <categoryId>8</categoryId>
+    <price>500</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция верхней губы.</description>
+</offer>
+<offer id="sergeeva_56">
+    <name>Лазерная эпиляция — Подбородок</name>
+    <categoryId>8</categoryId>
+    <price>500</price>
+    <currencyId>RUR</currencyId>
+    <description>Лазерная эпиляция подбородка.</description>
+</offer>
+
+<!-- Комплексы -->
+
+<offer id="sergeeva_57">
+    <name>Комплекс №1 — Бикини (любое) + Подмышки</name>
+    <categoryId>8</categoryId>
+    <price>2200</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс лазерной эпиляции: любое бикини и подмышечные впадины.</description>
+</offer>
+
+<offer id="sergeeva_58">
+    <name>Комплекс №2 — Голени + Подмышки</name>
+    <categoryId>8</categoryId>
+    <price>2300</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс лазерной эпиляции: голени и подмышечные впадины.</description>
+</offer>
+
+<offer id="sergeeva_59">
+    <name>Комплекс №3 — Бикини (любое) + Подмышки + Голени</name>
+    <categoryId>8</categoryId>
+    <price>3500</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс лазерной эпиляции: любое бикини, подмышечные впадины и голени.</description>
+</offer>
+
+<offer id="sergeeva_60">
+    <name>Комплекс №4 — Бикини (любое) + Подмышки + Ноги полностью</name>
+    <categoryId>8</categoryId>
+    <price>4200</price>
+    <currencyId>RUR</currencyId>
+    <description>Комплекс лазерной эпиляции: любое бикини, подмышечные впадины и ноги полностью.</description>
+</offer>
+
+<offer id="sergeeva_61">
+    <name>Комплекс №5 — Бикини + Подмышки + Ноги полностью + Руки полностью + Линия живота + Верхняя губа</name>
+    <categoryId>8</categoryId>
+    <price>5700</price>
+    <currencyId>RUR</currencyId>
+    <description>Максимальный комплекс лазерной эпиляции.</description>
+</offer>
+<!-- Бандажное обертывание -->
+
+<offer id="sergeeva_62">
+    <name>Бандажное обертывание</name>
+    <categoryId>8</categoryId>
+    <price>2000</price>
+    <currencyId>RUR</currencyId>
+    <description>Разовая процедура бандажного обертывания.</description>
 </offer>
 </offers>
 </shop>
